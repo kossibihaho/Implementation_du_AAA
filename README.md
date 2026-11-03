@@ -375,10 +375,10 @@ Implementation_du_AAA/
 
 | Nom | GitHub |
 |---|---|
-| AGBEVO Kodjo Honoré | — |
+| AGBEVO Kodjo Honoré | [@ AGBEVO_Kodjo_Honoré](https://github.com/Honore-M12) |
 | BIHAHO Kossi | [@kossibihaho](https://github.com/kossibihaho) |
-| IRERA Furaha Jospine | — |
-| RAKOTOMANGA Manohisoa Mireille | — |
+| IRERA Furaha Jospine | [@IRERA_Furaha_Jospine](https://github.com/jospine463/) |
+| RAKOTOMANGA Manohisoa Mireille | [@RAKOTOMANGA_Manohisoa_Mireille](https://github.com/soamanohy) |
 
 **Encadrante :** Mme **ABBASS Wissam**
 
